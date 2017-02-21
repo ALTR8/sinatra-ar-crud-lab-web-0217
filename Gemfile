@@ -13,6 +13,7 @@ gem 'rspec'
 gem 'rack-test'
 gem 'database_cleaner', git: 'https://github.com/bmabey/database_cleaner.git'
 gem 'require_all'
+gem 'rack-flash3'
 
 
 group :development do
